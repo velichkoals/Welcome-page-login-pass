@@ -1,9 +1,9 @@
 <h2>https://velichkoals.github.io/welcome-page-login-pass/</h2>
 <h2>Simple login mini-project</h2> 
-* I used such technologies in the project: <code>JS,HTML,CSS</code> 
+- I used such technologies in the project: <code>JS,HTML,CSS</code> <br>
 - Only for PC 🖥 ✅
 <h2>TRY TO ENTER</h2> 
-- username: <strong>velichkoals</strong> 
+- username: <strong>velichkoals</strong>  <br>
 - pass: <strong>velichkoals</strong> 
 
 
